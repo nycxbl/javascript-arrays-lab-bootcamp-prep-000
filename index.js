@@ -10,3 +10,7 @@ function destructivelyPrependKitten(name){
 function destructivelyRemoveLastKitten(){
   
 }
+
+function destructivelyRemoveFirstKitten(){
+  
+}
