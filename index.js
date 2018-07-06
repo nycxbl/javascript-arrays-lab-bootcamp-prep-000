@@ -16,13 +16,10 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-
-  
+  kittens[kittens.length] = name;
 }
 
 function prependKitten(name){
-
-  
 }
 
 function removeLastKitten(){
