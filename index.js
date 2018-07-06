@@ -1,6 +1,6 @@
 // Add your functions and code here
 function destructivelyAppendKitten(name){
-  kittens.appends(name)
+  kittens.appends(name);
 }
 
 function destructivelyPrependKitten(name){
